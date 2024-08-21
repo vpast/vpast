@@ -1,22 +1,22 @@
-## О себе
+
+## About Me
     
 
-Меня зовут Владислав и я фронтенд разработчик! Программировать начал ещё в университете (Python, C++, C#) и затем самостоятельно научился разработке на JavaScript и React.js. На сегодняшний день, имею портфолио из четырех проектов, где удалось продемонстрировать полученные навыки. С исходным кодом всех проектов и их демо-версиями, вы можете ознакомится в репозиториях ниже.
+My name is Vlad. I started learning frontend development in university while also studying C++, Python, and C#. I later taught myself JavaScript and React.js through online courses and documentation. To date, I have created a portfolio of four projects that demonstrate my skills, with the source code and demos available on my GitHub: [https://github.com/vpast](https://github.com/vpast)
 
   
 
-Я выбрал карьеру программиста потому что мне нравится работать с инновационными технологиями. Во фронтенд-разработке меня вдохновляет видеть визуальный результат моих усилий. Однако я не считаю себя исключительно "технарем" и умею находить общий язык с людьми разных профессий и возрастов. В диалоге применяю навык активного слушания, уделяю внимание деталям и усваиваю на лету нужную информацию. В работе ищу баланс между качеством и скоростью для получения оптимальных результатов.
+I became a software developer because I love working with innovative technologies. In frontend development, I am inspired by seeing my efforts materialize into visually compelling websites. But I don't see myself as a purely "computer person": I'm good at communicating with people of different backgrounds and ages. I practice active listening, pay attention to details, and learn quickly. In my work, I aim to balance quality and speed to deliver the best results.
 
   
 
-Хочу попасть в компанию, в которой смогу внести свой вклад в создание и улучшение полезных другим продуктов. Хотя я много работал самостоятельно, мне нравится быть частью команды, так как совместные усилия и разные точки зрения способствуют более эффективному решению задач.
+While I have worked on my own a lot, I enjoy being part of a team because working together allows us to solve problems better by bringing together our diverse strengths and viewpoints. So, I'm looking to join a company where I can contribute to the creation and enhancement of your awesome products.
 
-  
+## Contacts
+    
 
-## Контакты
+-   Email: [vpast.dev@gmail.com](mailto:vpast.dev@gmail.com)
     
-Email: [vpast.dev@gmail.com](mailto:vpast.dev@gmail.com)
+-   LinkedIn: [https://www.linkedin.com/in/vpast/](https://www.linkedin.com/in/vpast/)
     
-LinkedIn: [https://www.linkedin.com/in/vpast/](https://www.linkedin.com/in/vpast/)
-    
-Telegram: @[VladPastDev](https://t.me/VladPastDev)
+-   Telegram: @[VladPastDev](https://t.me/VladPastDev)
