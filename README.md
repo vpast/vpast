@@ -2,7 +2,7 @@
 ## About Me
     
 
-My name is Vlad. I started learning frontend development in university while also studying C++, Python, and C#. I later taught myself JavaScript and React.js through online courses and documentation. To date, I have created a portfolio of four projects that demonstrate my skills, with the source code and demos available on my GitHub: [https://github.com/vpast](https://github.com/vpast)
+My name is Vlad. I started learning frontend development in university while also studying C++, Python, and C#. I later taught myself JavaScript and React.js through online courses and documentation. To date, I have created a portfolio of four projects that demonstrate my skills, with the source code and demos available.
 
   
 
